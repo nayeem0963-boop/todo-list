@@ -19,6 +19,11 @@ function App() {
                 }
             };
 
+            const handleDeleteTask = (index) => {
+                // Logic to delete the task from the list
+                setTodos(prevTodos => prevTodos.filter((_, i) => i !== index));
+            };
+
   return (
     <main >
       
@@ -29,7 +34,10 @@ function App() {
 
         <ul>
   {todos.map((todo, index) => (
-    <li key={index}>{todo}</li>
+    <li key={index}>
+      {todo}
+      <button onClick={() => handleDeleteTask(index)}>Delete</button>
+      </li>
   ))}
 </ul>
 
