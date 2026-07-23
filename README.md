@@ -1,70 +1,120 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Lesson 9 – Toggle Complete
+Learn
+Updating one object inside an array 
+This is one of the most important React skills.
 
-## Available Scripts
+Lesson 10 – Remaining Counter
+3 tasks left
+Learn
+filter() 
+Derived state 
 
-In the project directory, you can run:
+Lesson 11 – Clear Completed
+Clear Completed
+Learn
+More array filtering 
 
-### `npm start`
+Lesson 12 – Edit Todo
+Double-click
+↓
+Edit
+Learn
+Conditional rendering 
+Editing state 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Phase 3 – Advanced Beginner
+Lesson 13 – Filters
+All
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Active
 
-### `npm test`
+Completed
+Learn
+Multiple states working together 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lesson 14 – Search
+Search...
+Learn
+Live filtering 
 
-### `npm run build`
+Lesson 15 – Sort
+Newest
+Oldest
+Alphabetical
+Learn
+sort() 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Lesson 16 – Local Storage
+Refresh
+↓
+Todos remain.
+Learn
+useEffect 
+localStorage 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Lesson 17 – Custom Components
+Split into
+App
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+├── Header
 
-### `npm run eject`
+├── TodoForm
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+├── TodoList
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+├── TodoItem
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+└── Footer
+This is how real React apps are organized.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Phase 4 – Professional
+Lesson 18
+Custom hooks
 
-## Learn More
+Lesson 19
+Dark Mode
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Lesson 20
+Animations
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Lesson 21
+Responsive Design
 
-### Code Splitting
+Lesson 22
+Keyboard shortcuts
+Enter
+Escape
+Delete
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Lesson 23
+Due dates
 
-### Analyzing the Bundle Size
+Lesson 24
+Priority levels
+High
+Medium
+Low
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Lesson 25
+Portfolio-quality polish
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Skills You'll Learn
+By the end, you'll have practiced:
+✅ Components 
+✅ Props 
+✅ useState 
+✅ useEffect 
+✅ Controlled inputs 
+✅ Event handling 
+✅ Arrays 
+✅ Objects 
+✅ .map() 
+✅ .filter() 
+✅ .find() 
+✅ .sort() 
+✅ Conditional rendering 
+✅ Forms 
+✅ Local storage 
+✅ Component composition 
+That's a strong foundation for building many React applications.
